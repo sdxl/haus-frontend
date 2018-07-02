@@ -1,3 +1,6 @@
+This project is the React frontend for a service that allows user to sign-in and create an account and retrieve/post feedback.
+What follows is generated from the create-react-app command line tool.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
