@@ -1,0 +1,11 @@
+body {
+  font-family: "Helvetica", sans-serif;
+  font-size: 16px;
+  color: #333;
+}
+
+select.form-control,
+textarea.form-control,
+input.form-control {
+  font-size: 16px;
+}

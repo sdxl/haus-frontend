@@ -1,0 +1,17 @@
+.App{
+  margin-top: 15px;
+}
+
+.App .navbar{
+  background-color:#F36A5E;
+}
+
+.App .navbar-brand{
+  font-weight: bold;
+  color: #ffffff;
+  font-weight: 400;
+}
+
+#logout{
+  color: #ffffff;
+}
